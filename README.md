@@ -21,4 +21,10 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Qingquan 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatliTalk&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatliTalk&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatliTalk&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatliTalk&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatliTalk&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatliTalk&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatliTalk&show_icons=true&theme=highcontrast)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatliTalk&show_icons=true&theme=dracula)
