@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+## Hi, I'm Qingquan 👋
 
 <!--
 **FatliTalk/FatliTalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatliTalk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatliTalk)
+
+<!-- <div class="half">
+  <a href="https://github.com/FatliTalk"><img src="https://github-readme-stats.vercel.app/api?username=FatliTalk&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
+  <a href="https://github.com/QC-L"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QC-L&hide=Objective-C,shell,swift&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
+</div> -->
