@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Qingquan 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatliTalk&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Qingquan-Li&show_icons=true&theme=tokyonight)
